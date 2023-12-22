@@ -1,1 +1,1 @@
-# gpt-power-user
+# FullStack Auth Portal tempalte
