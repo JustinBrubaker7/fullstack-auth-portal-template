@@ -35,4 +35,5 @@ npm run dev
 # Start the backend server
 cd server
 npm install
-npm start
+npm run start
+```
